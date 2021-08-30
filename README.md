@@ -6,7 +6,7 @@ I participated in the course to review and organize the machine learning skills 
 
 In the first 2 weeks, I received hands-on assignments delivered to my inbox. The goal of these assignments is to rapidly cover the most essential skills needed to get your hands dirty with data. I started by learning how to code in Python and quickly learn how to build my first machine learning model. And then, I participated in the 30 Days of ML competition.
 
-Here in this repository, you can see the notebooks that I have written and organized for 30 days of assignments and competitions from Kaggle.
+Here in this repository, you can see the notebooks that I have written and type up for 30 days of assignments and competitions from Kaggle.
 
 # About the competition data
 
